@@ -1,23 +1,24 @@
-# -SQL-Basic-Project-Online-Food-Delivery-System-
-SQL basic project on Online Food Delivery dataset covering database design, queries, business insights, and visualizations.
+# 🧾 Project Report – Online Food Delivery System (Basic SQL Project)
 
-This project focuses on analyzing data from an Online Food Delivery System 🍔📦 using SQL to uncover key business insights. The aim was to design a complete relational database, write queries to explore and manipulate data, and generate insights that can improve restaurant operations and customer satisfaction.
+This project is a beginner-level SQL project based on an Online Food Delivery System 🍔📦. The main goal was to understand how databases work and how to use SQL to store, retrieve, and analyze data.
 
-The process began with database design — creating ER diagrams, setting up the schema, and defining tables for customers, restaurants, orders, menu items, and order details. Once the database was structured, multiple SQL queries were executed to answer business questions and discover insights such as:
+I started by creating a database and setting up tables for Customers, Restaurants, Orders, Menu Items, and Order Details. Then, I practiced writing basic SQL queries to explore the dataset and answer simple business-related questions.
 
-🏙 Top-performing cities by order volume and revenue
+The key tasks included:
 
-🍽 Best-selling food items and their total sales
+🗄 Creating tables and inserting sample data
 
-👥 Top customers by spending behavior
+🔍 Using SELECT and WHERE clauses to filter information
 
-🏢 Restaurant-wise performance and underperforming outlets
+📋 Sorting and limiting results with ORDER BY and LIMIT
 
-📅 Monthly order trends and seasonal patterns
+🤝 Joining multiple tables using JOIN
 
-To make the results more meaningful, the data was exported to Google Sheets, where charts and visualizations were created to present key findings clearly.
+🧮 Applying aggregate functions like COUNT, SUM, and AVG
 
-Finally, all tasks and outputs were compiled into a 29-page detailed report created in Canva, showcasing the full workflow — from data design to analysis and visualization.
+Finally, I used the query results to get insights such as most ordered food items, total revenue per city, and active customers.
 
-# Outcome:
-This project demonstrates how SQL can turn raw data into actionable business insights, strengthening analytical thinking and database management skills — essential for roles in Data Analytics, Data Engineering, and Business Intelligence.
+# 🎯 Outcome:
+This project helped me learn the fundamentals of SQL — how to design a simple database, write queries, and analyze real-world data. It was a great starting point for building confidence in data analytics and database management.
+
+
